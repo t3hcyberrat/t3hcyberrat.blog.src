@@ -1,0 +1,12 @@
+baseURL = "https://blog.t3hcyberrat@gmail.com/"
+languageCode = "en-us"
+paginate = 5
+theme = "PaperMod"
+title = "RatLair"
+
+[params]
+  author = "T3hCyberRat"
+  defaultTheme = "dark"
+  description = "RatLair description"
+  keywords = ["Blog", "Portfolio"]
+  disableThemeToggle = true
