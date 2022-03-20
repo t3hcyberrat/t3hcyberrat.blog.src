@@ -1,4 +1,4 @@
-baseURL = "https://blog.t3hcyberrat@gmail.com/"
+baseURL = "https://blog.t3hcyberrat.com/"
 languageCode = "en-us"
 paginate = 5
 theme = "PaperMod"

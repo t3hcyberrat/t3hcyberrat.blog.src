@@ -1,3 +1,7 @@
 [submodule "themes/less"]
 	path = themes/less
 	url = git@github.com:4ever9/less.git
+[submodule "public"]
+	path = public
+	url = git@github.com:t3hcyberrat/t3hcyberrat.blog.public.git
+	branch = main
